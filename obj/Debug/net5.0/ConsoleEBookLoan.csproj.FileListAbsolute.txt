@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\code\OOP\ConsoleEBookLoan\bin\Debug\net5.0\ConsoleEBookLoan.exe
+C:\Users\DELL\Documents\code\OOP\ConsoleEBookLoan\bin\Debug\net5.0\ConsoleEBookLoan.deps.json
+C:\Users\DELL\Documents\code\OOP\ConsoleEBookLoan\bin\Debug\net5.0\ConsoleEBookLoan.runtimeconfig.json
+C:\Users\DELL\Documents\code\OOP\ConsoleEBookLoan\bin\Debug\net5.0\ConsoleEBookLoan.runtimeconfig.dev.json
+C:\Users\DELL\Documents\code\OOP\ConsoleEBookLoan\bin\Debug\net5.0\ConsoleEBookLoan.dll
+C:\Users\DELL\Documents\code\OOP\ConsoleEBookLoan\bin\Debug\net5.0\ref\ConsoleEBookLoan.dll
+C:\Users\DELL\Documents\code\OOP\ConsoleEBookLoan\bin\Debug\net5.0\ConsoleEBookLoan.pdb
+C:\Users\DELL\Documents\code\OOP\ConsoleEBookLoan\obj\Debug\net5.0\ConsoleEBookLoan.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\code\OOP\ConsoleEBookLoan\obj\Debug\net5.0\ConsoleEBookLoan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\code\OOP\ConsoleEBookLoan\obj\Debug\net5.0\ConsoleEBookLoan.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\code\OOP\ConsoleEBookLoan\obj\Debug\net5.0\ConsoleEBookLoan.AssemblyInfo.cs
+C:\Users\DELL\Documents\code\OOP\ConsoleEBookLoan\obj\Debug\net5.0\ConsoleEBookLoan.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\code\OOP\ConsoleEBookLoan\obj\Debug\net5.0\ConsoleEBookLoan.dll
+C:\Users\DELL\Documents\code\OOP\ConsoleEBookLoan\obj\Debug\net5.0\ref\ConsoleEBookLoan.dll
+C:\Users\DELL\Documents\code\OOP\ConsoleEBookLoan\obj\Debug\net5.0\ConsoleEBookLoan.pdb
+C:\Users\DELL\Documents\code\OOP\ConsoleEBookLoan\obj\Debug\net5.0\ConsoleEBookLoan.genruntimeconfig.cache
