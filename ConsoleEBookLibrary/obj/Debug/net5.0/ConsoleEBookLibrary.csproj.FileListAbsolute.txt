@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\ConsoleEBookLibrary\ConsoleEBookLibrary\bin\Debug\net5.0\ConsoleEBookLibrary.exe
+C:\Users\DELL\source\repos\ConsoleEBookLibrary\ConsoleEBookLibrary\obj\Debug\net5.0\ConsoleEBookLibrary.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleEBookLibrary\ConsoleEBookLibrary\obj\Debug\net5.0\ConsoleEBookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleEBookLibrary\ConsoleEBookLibrary\obj\Debug\net5.0\ConsoleEBookLibrary.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleEBookLibrary\ConsoleEBookLibrary\obj\Debug\net5.0\ConsoleEBookLibrary.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleEBookLibrary\ConsoleEBookLibrary\obj\Debug\net5.0\ConsoleEBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleEBookLibrary\ConsoleEBookLibrary\obj\Debug\net5.0\ConsoleEBookLibrary.dll
+C:\Users\DELL\source\repos\ConsoleEBookLibrary\ConsoleEBookLibrary\obj\Debug\net5.0\ref\ConsoleEBookLibrary.dll
+C:\Users\DELL\source\repos\ConsoleEBookLibrary\ConsoleEBookLibrary\obj\Debug\net5.0\ConsoleEBookLibrary.pdb
+C:\Users\DELL\source\repos\ConsoleEBookLibrary\ConsoleEBookLibrary\bin\Debug\net5.0\ConsoleEBookLibrary.deps.json
+C:\Users\DELL\source\repos\ConsoleEBookLibrary\ConsoleEBookLibrary\bin\Debug\net5.0\ConsoleEBookLibrary.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleEBookLibrary\ConsoleEBookLibrary\bin\Debug\net5.0\ConsoleEBookLibrary.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\ConsoleEBookLibrary\ConsoleEBookLibrary\bin\Debug\net5.0\ConsoleEBookLibrary.dll
+C:\Users\DELL\source\repos\ConsoleEBookLibrary\ConsoleEBookLibrary\bin\Debug\net5.0\ref\ConsoleEBookLibrary.dll
+C:\Users\DELL\source\repos\ConsoleEBookLibrary\ConsoleEBookLibrary\bin\Debug\net5.0\ConsoleEBookLibrary.pdb
+C:\Users\DELL\source\repos\ConsoleEBookLibrary\ConsoleEBookLibrary\obj\Debug\net5.0\ConsoleEBookLibrary.genruntimeconfig.cache
